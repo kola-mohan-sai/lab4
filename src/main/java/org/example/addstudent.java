@@ -23,7 +23,7 @@ public class addstudent extends HttpServlet {
             "root";
 
     private static final String PASSWORD =
-            "svist@123";
+            "MOHANSAI2006";
 
     @Override
     protected void doPost(HttpServletRequest request,
